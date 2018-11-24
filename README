@@ -1,0 +1,8 @@
+
+
+** USAGE **
+
+1. make 'lock_two_accounts.py' executable -> '$ chmod +x lock_two_accounts.py'
+2. run the script -> './lock_two_accounts.py'
+3. aswer the prompts
+4. locked accounts will be saved in 'locked_users.txt'
